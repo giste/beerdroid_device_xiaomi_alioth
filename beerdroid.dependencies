@@ -17,6 +17,6 @@
   {
     "repository": "raystef66/InfiniR_kernel_alioth",
     "target_path": "kernel/xiaomi/sm8250",
-    "branch": "13.0-alioth"
+    "branch": "refs/tags/v2.55"
   }
 ]
