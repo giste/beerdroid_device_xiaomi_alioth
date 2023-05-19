@@ -15,8 +15,8 @@
     "branch": "master"
   },
   {
-    "repository": "raystef66/InfiniR_kernel_alioth",
+    "repository": "giste/beerdroid_kernel_xiaomi_sm8250",
     "target_path": "kernel/xiaomi/sm8250",
-    "branch": "refs/tags/v2.55"
+    "branch": "13.0-alioth"
   }
 ]
