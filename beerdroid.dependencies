@@ -15,8 +15,8 @@
     "branch": "master"
   },
   {
-    "repository": "giste/beerdroid_kernel_xiaomi_sm8250",
+    "repository": "LineageOS/android_kernel_xiaomi_sm8250",
     "target_path": "kernel/xiaomi/sm8250",
-    "branch": "13.0-alioth"
+    "branch": "lineage-20"
   }
 ]
