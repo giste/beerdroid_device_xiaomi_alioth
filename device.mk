@@ -30,7 +30,7 @@ PRODUCT_PACKAGES += \
     com.google.android.apps.dialer.call_recording_audio.features.xml
 
 # Miuicamera
-$(call inherit-product-if-exists, vendor/xiaomi/camera/products/miuicamera.mk)
+$(call inherit-product-if-exists, vendor/xiaomi/camera/miuicamera.mk)
 
 # Camera
 PRODUCT_COPY_FILES += \
